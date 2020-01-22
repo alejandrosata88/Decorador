@@ -1,0 +1,7 @@
+C:\BOT\Cursos\Patrones\Decorador\Decorador\Decorador\bin\Debug\Decorador.exe.config
+C:\BOT\Cursos\Patrones\Decorador\Decorador\Decorador\bin\Debug\Decorador.exe
+C:\BOT\Cursos\Patrones\Decorador\Decorador\Decorador\bin\Debug\Decorador.pdb
+C:\BOT\Cursos\Patrones\Decorador\Decorador\Decorador\obj\Debug\Decorador.csprojAssemblyReference.cache
+C:\BOT\Cursos\Patrones\Decorador\Decorador\Decorador\obj\Debug\Decorador.csproj.CoreCompileInputs.cache
+C:\BOT\Cursos\Patrones\Decorador\Decorador\Decorador\obj\Debug\Decorador.exe
+C:\BOT\Cursos\Patrones\Decorador\Decorador\Decorador\obj\Debug\Decorador.pdb
